@@ -16,6 +16,13 @@ All dependencies are listed in [requirements.txt](./requirements.txt). To run th
 # Clone & Enter the repo
 git clone [https://github.com/yechs/MScProject.git](https://github.com/oluwatimilehin12/MScProject.git)
 cd RSA_Attack
+(if the above did not work, try the below one )
+
+or 
+# Clone & Enter the repo
+git clone [https://github.com/yechs/MScProject.git](https://github.com/oluwatimilehin12/MScProject.git)
+cd MSC_Project
+
 
 # Install the dependencies
 pip install -r requirements.txt
