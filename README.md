@@ -15,13 +15,13 @@ All dependencies are listed in [requirements.txt](./requirements.txt). To run th
 ```bash
 # Clone & Enter the repo
 git clone https://github.com/oluwatimilehin12/MScProject.git
-cd RSA_Attack
+cd cd MATH313-Wiener_Attack
 (if the above did not work, try the below one )
 
 or 
 # Clone & Enter the repo
 git clone https://github.com/oluwatimilehin12/MScProject.git
-cd MSC_Project
+cd cd MATH313-Wiener_Attack
 
 
 # Install the dependencies
