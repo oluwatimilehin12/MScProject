@@ -14,7 +14,7 @@ All dependencies are listed in [requirements.txt](./requirements.txt). To run th
 
 ```bash
 # Clone & Enter the repo
-git clone https://github.com/yechs/MScProject.git
+git clone [https://github.com/yechs/MScProject.git](https://github.com/oluwatimilehin12/MScProject.git)
 cd RSA_Attack
 
 # Install the dependencies
