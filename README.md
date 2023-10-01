@@ -1,4 +1,4 @@
-# MATH313-Wiener_Attack
+# MSCProject
 
 This is the code for my [MATH 313 Introduction to Number Theory](https://catalog.williams.edu/MATH/detail/?strm=1213&cn=313&crsid=011665) course finals presentation.
 
@@ -14,8 +14,8 @@ All dependencies are listed in [requirements.txt](./requirements.txt). To run th
 
 ```bash
 # Clone & Enter the repo
-git clone https://github.com/yechs/MATH313-Wiener_Attack.git
-cd MATH313-Wiener_Attack
+git clone https://github.com/yechs/MScProject.git
+cd RSA_Attack
 
 # Install the dependencies
 pip install -r requirements.txt
